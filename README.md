@@ -9,8 +9,11 @@
 5. Tech Stack
    
    Power BI – Dashboard creation and data visualization
+   
    Excel – Data storage and preprocessing
+   
    Power Query – Data cleaning and transformation
+   
    DAX (Data Analysis Expressions) – Custom measures and KPIs
 
 7. Data Source
