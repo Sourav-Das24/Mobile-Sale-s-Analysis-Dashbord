@@ -37,25 +37,25 @@
 
 11. Charts & Purpose in the Dashboard
    
-    a. KPI Cards (Total Sales, Quantity, Transactions, Average)
+    a. KPI Cards (Total Sales, Quantity, Transactions, Average):-
     
-      Why: Provide a quick snapshot of overall performance.
+        Why: Provide a quick snapshot of overall performance.
     
-      Purpose: Helps stakeholders instantly evaluate total revenue, sales volume, and average transaction value.
+        Purpose: Helps stakeholders instantly evaluate total revenue, sales volume, and average transaction value.
 
-    b. Total Sales by City (Map Visual)
+    b. Total Sales by City (Map Visual):-
     
       Why: Show geographical spread of smartphone sales across India.
     
       Purpose: Identify top-performing cities and regions with growth potential.
 
-    c. Transactions by Payment Method (Pie Chart)
+    c. Transactions by Payment Method (Pie Chart):-
     
       Why: Compare UPI, Debit Card, and Credit Card usage.
     
       Purpose: Understand customer payment preferences to optimize transaction channels.
 
-    d. Customer Ratings (Funnel Chart)
+    d. Customer Ratings (Funnel Chart):-
     
       Why: Display distribution of ratings from 1 to 5.
     
