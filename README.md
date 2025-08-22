@@ -1,20 +1,21 @@
 1. Project Title/Heading
+   
    Smartphone Market Insights Dashboard
 
-2. Short Description / Purpose
+3. Short Description / Purpose
    This project presents an interactive Power BI dashboard that analyzes smartphone sales performance across cities, brands, and payment methods in India. The dashboard provides business insights into customer       preferences, sales trends, and brand competitiveness, helping stakeholders make data-driven decisions.
 
-3. Tech Stack
+4. Tech Stack
    Power BI – Dashboard creation and data visualization
    Excel – Data storage and preprocessing
    Power Query – Data cleaning and transformation
    DAX (Data Analysis Expressions) – Custom measures and KPIs
 
-4. Data Source
+5. Data Source
   Mock dataset on smartphone sales, customer ratings, transactions, and payment methods
   City-wise and brand-wise smartphone sales compiled for analysis
 
-5. Features / Highlights
+6. Features / Highlights
   Overall performance metrics (Total Sales, Quantity, Transactions, Average)
   City-wise sales insights on India map
   Payment method distribution analysis
@@ -23,7 +24,7 @@
   Brand-level performance comparison (Apple, Samsung, Vivo, OnePlus, Xiaomi)
   Mobile model-wise sales breakdown
 
-6. Charts & Purpose in the Dashboard
+7. Charts & Purpose in the Dashboard
    
   a. KPI Cards (Total Sales, Quantity, Transactions, Average)
   Why: Provide a quick snapshot of overall performance.
