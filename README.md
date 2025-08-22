@@ -39,51 +39,51 @@
    
     a. KPI Cards (Total Sales, Quantity, Transactions, Average)
     
-    Why: Provide a quick snapshot of overall performance.
+      Why: Provide a quick snapshot of overall performance.
     
-    Purpose: Helps stakeholders instantly evaluate total revenue, sales volume, and average transaction value.
+      Purpose: Helps stakeholders instantly evaluate total revenue, sales volume, and average transaction value.
 
     b. Total Sales by City (Map Visual)
     
-    Why: Show geographical spread of smartphone sales across India.
+      Why: Show geographical spread of smartphone sales across India.
     
-    Purpose: Identify top-performing cities and regions with growth potential.
+      Purpose: Identify top-performing cities and regions with growth potential.
 
     c. Transactions by Payment Method (Pie Chart)
     
-    Why: Compare UPI, Debit Card, and Credit Card usage.
+      Why: Compare UPI, Debit Card, and Credit Card usage.
     
-    Purpose: Understand customer payment preferences to optimize transaction channels.
+      Purpose: Understand customer payment preferences to optimize transaction channels.
 
     d. Customer Ratings (Funnel Chart)
     
-    Why: Display distribution of ratings from 1 to 5.
+      Why: Display distribution of ratings from 1 to 5.
     
-    Purpose: Measure customer satisfaction and product/service quality.
+      Purpose: Measure customer satisfaction and product/service quality.
 
     e. Quantity by Month (Line Chart)
     
-    Why: Track sales quantity over months.
+      Why: Track sales quantity over months.
     
-    Purpose: Identify seasonal demand patterns and support forecasting.
+      Purpose: Identify seasonal demand patterns and support forecasting.
 
     f. Sum of Units Sold by Mobile Model (Bar Chart)
     
-    Why: Compare performance of different smartphone models.
+      Why: Compare performance of different smartphone models.
     
-    Purpose: Recognize best-selling models and manage inventory effectively.
+      Purpose: Recognize best-selling models and manage inventory effectively.
 
     g. Brand-wise Sales and Transactions (Table)
     
-    Why: Provide a detailed breakdown of brand performance.
+      Why: Provide a detailed breakdown of brand performance.
     
-    Purpose: Compare Apple, Samsung, OnePlus, Vivo, and Xiaomi on sales, units, and transactions.
+      Purpose: Compare Apple, Samsung, OnePlus, Vivo, and Xiaomi on sales, units, and transactions.
 
     h. Total Sales by Day Name (Line + Bar Chart)
     
-    Why: Show variation in sales across days of the week.
+      Why: Show variation in sales across days of the week.
     
-    Purpose: Identify high and low-performing days to plan promotions and offers.
+      Purpose: Identify high and low-performing days to plan promotions and offers.
 
 7. Key Questions Answered
    
