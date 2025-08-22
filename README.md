@@ -15,8 +15,9 @@
 
 7. Data Source
    
-  Mock dataset on smartphone sales, customer ratings, transactions, and payment methods
-  City-wise and brand-wise smartphone sales compiled for analysis
+     Mock dataset on smartphone sales, customer ratings, transactions, and payment methods
+   
+      City-wise and brand-wise smartphone sales compiled for analysis
   
 9. Features / Highlights
     
@@ -36,47 +37,47 @@
 
 11. Charts & Purpose in the Dashboard
    
-  a. KPI Cards (Total Sales, Quantity, Transactions, Average)
-  Why: Provide a quick snapshot of overall performance.
-  Purpose: Helps stakeholders instantly evaluate total revenue, sales volume, and average transaction value.
+    a. KPI Cards (Total Sales, Quantity, Transactions, Average)
+    Why: Provide a quick snapshot of overall performance.
+    Purpose: Helps stakeholders instantly evaluate total revenue, sales volume, and average transaction value.
 
-  b. Total Sales by City (Map Visual)
-  Why: Show geographical spread of smartphone sales across India.
-  Purpose: Identify top-performing cities and regions with growth potential.
+    b. Total Sales by City (Map Visual)
+    Why: Show geographical spread of smartphone sales across India.
+    Purpose: Identify top-performing cities and regions with growth potential.
 
-  c. Transactions by Payment Method (Pie Chart)
-  Why: Compare UPI, Debit Card, and Credit Card usage.
-  Purpose: Understand customer payment preferences to optimize transaction channels.
+    c. Transactions by Payment Method (Pie Chart)
+    Why: Compare UPI, Debit Card, and Credit Card usage.
+    Purpose: Understand customer payment preferences to optimize transaction channels.
 
-  d. Customer Ratings (Funnel Chart)
-  Why: Display distribution of ratings from 1 to 5.
-  Purpose: Measure customer satisfaction and product/service quality.
+    d. Customer Ratings (Funnel Chart)
+    Why: Display distribution of ratings from 1 to 5.
+    Purpose: Measure customer satisfaction and product/service quality.
 
-  e. Quantity by Month (Line Chart)
-  Why: Track sales quantity over months.
-  Purpose: Identify seasonal demand patterns and support forecasting.
+    e. Quantity by Month (Line Chart)
+    Why: Track sales quantity over months.
+    Purpose: Identify seasonal demand patterns and support forecasting.
 
-  f. Sum of Units Sold by Mobile Model (Bar Chart)
-  Why: Compare performance of different smartphone models.
-  Purpose: Recognize best-selling models and manage inventory effectively.
+    f. Sum of Units Sold by Mobile Model (Bar Chart)
+    Why: Compare performance of different smartphone models.
+    Purpose: Recognize best-selling models and manage inventory effectively.
 
-  g. Brand-wise Sales and Transactions (Table)
-  Why: Provide a detailed breakdown of brand performance.
-  Purpose: Compare Apple, Samsung, OnePlus, Vivo, and Xiaomi on sales, units, and transactions.
+    g. Brand-wise Sales and Transactions (Table)
+    Why: Provide a detailed breakdown of brand performance.
+    Purpose: Compare Apple, Samsung, OnePlus, Vivo, and Xiaomi on sales, units, and transactions.
 
-  h. Total Sales by Day Name (Line + Bar Chart)
-  Why: Show variation in sales across days of the week.
-  Purpose: Identify high and low-performing days to plan promotions and offers.
+    h. Total Sales by Day Name (Line + Bar Chart)
+    Why: Show variation in sales across days of the week.
+    Purpose: Identify high and low-performing days to plan promotions and offers.
 
 7. Key Questions Answered
    
-  Which city contributes the most to smartphone sales?
-  Which payment method is most preferred by customers?
-  Which brand has the highest sales and transactions?
-  How do sales vary by month and by day of the week?
-  What are the most popular smartphone models among customers?
-  How are customer ratings distributed across transactions?
+    Which city contributes the most to smartphone sales?
+    Which payment method is most preferred by customers?
+    Which brand has the highest sales and transactions?
+    How do sales vary by month and by day of the week?
+    What are the most popular smartphone models among customers?
+    How are customer ratings distributed across transactions?
 
 9. Schreenshort / Demo
     
-  Show What the dashbord looks like : (https://github.com/Sourav-Das24/Mobile-Sale-s-Analysis-Dashbord/blob/main/Mobile-Sale-DashBoard-img.png)
+    Show What the dashbord looks like : (https://github.com/Sourav-Das24/Mobile-Sale-s-Analysis-Dashbord/blob/main/Mobile-Sale-DashBoard-img.png)
