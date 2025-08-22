@@ -16,16 +16,23 @@
 7. Data Source
    
   Mock dataset on smartphone sales, customer ratings, transactions, and payment methods
+  
   City-wise and brand-wise smartphone sales compiled for analysis
 
 9. Features / Highlights
     
   Overall performance metrics (Total Sales, Quantity, Transactions, Average)
+  
   City-wise sales insights on India map
+  
   Payment method distribution analysis
+  
   Customer satisfaction evaluation through ratings
+  
   Monthly and weekly sales trend tracking
+  
   Brand-level performance comparison (Apple, Samsung, Vivo, OnePlus, Xiaomi)
+  
   Mobile model-wise sales breakdown
 
 11. Charts & Purpose in the Dashboard
