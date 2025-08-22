@@ -39,9 +39,9 @@
    
     a. KPI Cards (Total Sales, Quantity, Transactions, Average):-
     
-        Why: Provide a quick snapshot of overall performance.
+       Why: Provide a quick snapshot of overall performance.
     
-        Purpose: Helps stakeholders instantly evaluate total revenue, sales volume, and average transaction value.
+       Purpose: Helps stakeholders instantly evaluate total revenue, sales volume, and average transaction value.
 
     b. Total Sales by City (Map Visual):-
     
@@ -61,25 +61,25 @@
     
       Purpose: Measure customer satisfaction and product/service quality.
 
-    e. Quantity by Month (Line Chart)
+    e. Quantity by Month (Line Chart):-
     
       Why: Track sales quantity over months.
     
       Purpose: Identify seasonal demand patterns and support forecasting.
 
-    f. Sum of Units Sold by Mobile Model (Bar Chart)
+    f. Sum of Units Sold by Mobile Model (Bar Chart):-
     
       Why: Compare performance of different smartphone models.
     
       Purpose: Recognize best-selling models and manage inventory effectively.
 
-    g. Brand-wise Sales and Transactions (Table)
+    g. Brand-wise Sales and Transactions (Table):-
     
       Why: Provide a detailed breakdown of brand performance.
     
       Purpose: Compare Apple, Samsung, OnePlus, Vivo, and Xiaomi on sales, units, and transactions.
 
-    h. Total Sales by Day Name (Line + Bar Chart)
+    h. Total Sales by Day Name (Line + Bar Chart):-
     
       Why: Show variation in sales across days of the week.
     
