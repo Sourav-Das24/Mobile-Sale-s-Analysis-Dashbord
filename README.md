@@ -15,9 +15,9 @@
 
 7. Data Source
    
-     Mock dataset on smartphone sales, customer ratings, transactions, and payment methods
-   
-      City-wise and brand-wise smartphone sales compiled for analysis
+     Dataset taken from a YouTube tutorial/video on smartphone sales analytics
+
+     Includes city-wise, brand-wise, customer ratings, transactions, and payment method details
   
 9. Features / Highlights
     
