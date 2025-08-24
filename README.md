@@ -104,17 +104,17 @@
     
    - Show What the dashbord looks like : (https://github.com/Sourav-Das24/Mobile-Sale-s-Analysis-Dashbord/blob/main/Mobile-Sale-DashBoard-img.png)
    
-9.Possible Solution: 
+  9.Possible Solution: 
 
-   Based on the insights derived from the dashboard, the following recommendations are proposed to strengthen sales performance and customer engagement:
+ Based on the insights derived from the dashboard, the following recommendations are proposed to strengthen sales performance and customer engagement:
 
-  - City-Level Focus:
-    Prioritize marketing and promotional campaigns in top-performing cities to maximize revenue, while designing region-specific strategies for underperforming areas to capture untapped market potential.
+   - City-Level Focus:
+   Prioritize marketing and promotional campaigns in top-performing cities to maximize revenue, while designing region-specific strategies for underperforming areas to capture untapped market potential.
 
-  - Payment Strategy Optimization:
+   - Payment Strategy Optimization:
     Since UPI and card payments dominate customer preferences, optimize checkout processes around these methods. Introduce targeted incentives or cashback offers to encourage adoption of underutilized channels,      improving overall transaction efficiency.
 
-  - Brand Performance Management:
+   - Brand Performance Management:
     Strengthen partnerships and promotional investments with leading brands and models that drive the highest sales volume. At the same time, reposition mid- and low-performing brands with competitive pricing or     bundled offers to improve their market share.
 
   - Customer Experience Enhancement:
