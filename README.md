@@ -22,19 +22,19 @@
 
 5. Features / Highlights
     
-    Overall performance metrics (Total Sales, Quantity, Transactions, Average)
+    - Overall performance metrics (Total Sales, Quantity, Transactions, Average)
    
-    City-wise sales insights on India map
+    - City-wise sales insights on India map
    
-    Payment method distribution analysis
+    - Payment method distribution analysis
    
-    Customer satisfaction evaluation through ratings
+    - Customer satisfaction evaluation through ratings
    
-    Monthly and weekly sales trend tracking
+    - Monthly and weekly sales trend tracking
    
-    Brand-level performance comparison (Apple, Samsung, Vivo, OnePlus, Xiaomi)
+    - Brand-level performance comparison (Apple, Samsung, Vivo, OnePlus, Xiaomi)
    
-    Mobile model-wise sales breakdown
+    - Mobile model-wise sales breakdown
 
 6. Charts & Purpose in the Dashboard
    
