@@ -102,11 +102,11 @@
    
    - How are customer ratings distributed across transactions?
 
-**8. Schreenshort / Demo**
+** 8. Schreenshort / Demo **
     
    - Show What the dashbord looks like : (https://github.com/Sourav-Das24/Mobile-Sale-s-Analysis-Dashbord/blob/main/Mobile-Sale-DashBoard-img.png)
    
-**9.Possible Solution: **
+** 9.Possible Solution: **
 
    Based on the insights derived from the dashboard, the following recommendations are proposed to strengthen sales performance and customer engagement:
 
