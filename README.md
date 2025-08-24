@@ -8,13 +8,13 @@
 
 3. Tech Stack
    
-   Power BI – Dashboard creation and data visualization
+   - Power BI – Dashboard creation and data visualization
    
-   Excel – Data storage and preprocessing
+   - Excel – Data storage and preprocessing
    
-   Power Query – Data cleaning and transformation
+   - Power Query – Data cleaning and transformation
    
-   DAX (Data Analysis Expressions) – Custom measures and KPIs
+   - DAX (Data Analysis Expressions) – Custom measures and KPIs
 
 4. Data Source
    
@@ -102,11 +102,11 @@
    
    - How are customer ratings distributed across transactions?
 
-** 8. Schreenshort / Demo **
+8. Schreenshort / Demo 
     
    - Show What the dashbord looks like : (https://github.com/Sourav-Das24/Mobile-Sale-s-Analysis-Dashbord/blob/main/Mobile-Sale-DashBoard-img.png)
    
-** 9.Possible Solution: **
+9.Possible Solution: 
 
    Based on the insights derived from the dashboard, the following recommendations are proposed to strengthen sales performance and customer engagement:
 
