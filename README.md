@@ -18,10 +18,8 @@
 
 4. Data Source
    
-     Dataset taken from a YouTube tutorial/video on smartphone sales analytics
+     Dataset taken from a YouTube tutorial/video on smartphone sales analytics Includes city-wise, brand-wise, customer ratings, transactions, and payment method details.
 
-     Includes city-wise, brand-wise, customer ratings, transactions, and payment method details
-  
 5. Features / Highlights
     
     Overall performance metrics (Total Sales, Quantity, Transactions, Average)
